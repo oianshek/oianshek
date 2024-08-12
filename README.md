@@ -8,7 +8,7 @@ Astana, Kazakhstan 🇰🇿
 
 # 💻 Tech Stack:
 
-![(https://tenor.com/view/ponke-ponkesol-monke-monkey-matrix-gif-9900155117287887357)](https://tenor.com/lXuYIPynjAv.gif)
+[![(https://tenor.com/view/ponke-ponkesol-monke-monkey-matrix-gif-9900155117287887357)](https://tenor.com/lXuYIPynjAv.gif)](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![asyncio](https://img.shields.io/badge/asyncio-%232C5bb4.svg?style=for-the-badge&logo=python&logoColor=white)![AIOHTTP](https://img.shields.io/badge/iohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white)
 

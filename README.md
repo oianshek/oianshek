@@ -1,6 +1,6 @@
 # 👨‍💻 Welcome to My Code Cave
 
-Greetings! I'm a software engineer by day, coding ninja by night. Whether I'm taming wild algorithms or crafting seamless user experiences, I strive to infuse creativity and precision into every line of code I write.
+coder
 
 ![me](https://github.com/oianshek/oianshek/blob/main/ponke-ponkesol.gif)
 
